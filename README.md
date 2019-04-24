@@ -3,7 +3,7 @@
 
 This repository contains the code for the development of a Intraretinal cyst fuild detection system, final project for the course on [Intelligent Systems in Medical Imaging 2018-2019](https://ismi19.grand-challenge.org/) at Radboud University, Nijmegen, The Netherlands.
 
-![Retina](https://github.com/gabrielraya/retina/blob/master/images/project.png)
+![Retina](https://github.com/gabrielraya/intraretinal-cyst-fluid-detection/blob/master/images/project.png)
 
 
 
