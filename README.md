@@ -33,7 +33,10 @@ This works aims to do a experimental analysis of recent state of the art deep le
 - [**RETOUCH** - The Retinal OCT Fluid Detection and
 Segmentation Benchmark and Challenge](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8653407):  It covers much more than just cysts but it gives a good overview of different techniques.
 
+***Please feel free to add references of other related useful work!!!***
 
+***Remember:*** 
+>  "***If I have seen further it is by standing on the shoulders of Giants***." *Isaac Newton*
 
 ## Data
 The training data together with the annotations for the ICON challenge can be downloaded using the following link (*Please, make sure that you all read the data usage policy document included and understand what is stated there.*):
@@ -73,7 +76,22 @@ You can find the overleaf link here:
 
 
 ## Project Plan
+|#     |  To do   |
+|---------|-----------------|
+|1 | Read the 2 papers    |
+|2 | Understand the problem     |
+|3 | Start with Introduction of the paper along with the abstract    |
+|4 | Start a power point presentation for the midterm  |
+|5 | Set deadlines    |
+|6 | Check the data  |
+|8 | Set a schedule to fins power workout days|
+|9 | First team meeting intensive power workout day|
+|11 | Maybe a brieft recap about CNN and Unet to put all team members in the same vibe |
+|10 | Try to run a first CNN attempt |
+|11 | Copy & paste the Unet from the assigment   |
 
+### Team meetings
+Please fill this form to set meeting days and time https://docs.google.com/spreadsheets/d/1KN2foBNWBkC64TE_TvXrZgBjbJK98aN7AKZDqhmMKkg/edit?usp=sharing
 
 
 ## Important facts
@@ -96,7 +114,7 @@ The average of several grades, consisting in the final evaluation of the **final
 |---------|-----------------|
 |[Gabriel Raya Rodriguez](https://github.com/gabrielraya) |     @gabrielraya    |
 |[Julius Mannes](https://github.com/OdysseasKr)| @JuliusMannes        |
-|[Tristan Payer](https://github.com/oliversion) |     @triste    |
+|[Tristan Payer](https://github.com/oliversion) |     @sirtris    |
 |[Pedro Martínez](https://github.com/PMedel) |     @PMedel    |
 
 
