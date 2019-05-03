@@ -1,4 +1,4 @@
-# Intraretinal cyst fuild detection using Deep Learning
+# Intraretinal cyst fluid detection using Deep Learning
 
 
 This repository contains the code for the development of a Intraretinal cyst fuild detection system, final project for the course on [Intelligent Systems in Medical Imaging 2018-2019](https://ismi19.grand-challenge.org/) at Radboud University, Nijmegen, The Netherlands.
