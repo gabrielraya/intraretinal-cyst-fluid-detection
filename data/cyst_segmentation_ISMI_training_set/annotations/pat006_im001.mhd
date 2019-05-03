@@ -1,0 +1,15 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = True
+CompressedDataSize = 11924
+TransformMatrix = 1 0 0 0 1 0 0 0 1
+Offset = 1.4778500000111761 0.0058499999471008785 2.4589999971424814
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RAI
+ElementSpacing = 0.011500000022351742 0.0038999998942017555 0.24588234722614288
+DimSize = 516 496 18
+ElementType = MET_UCHAR
+ElementDataFile = pat006_im001.zraw
+
