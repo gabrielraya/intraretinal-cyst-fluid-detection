@@ -1,7 +1,7 @@
 # Intraretinal cyst fluid detection using Deep Learning
 
 
-This repository contains the code for the development of a Intraretinal cyst fuild detection system, final project for the course on [Intelligent Systems in Medical Imaging 2018-2019](https://ismi19.grand-challenge.org/) at Radboud University, Nijmegen, The Netherlands.
+This repository contains the code for the development of a Intraretinal cyst fluild detection system, final project for the course on [Intelligent Systems in Medical Imaging 2018-2019](https://ismi19.grand-challenge.org/) at Radboud University, Nijmegen, The Netherlands.
 
 ![Retina](https://github.com/gabrielraya/intraretinal-cyst-fluid-detection/blob/master/images/project.png)
 
@@ -23,7 +23,10 @@ Outline:
 
 
 ##  Intro
-This works aims to do a experimental analysis of recent state of the art deep learning algorithms used to solve the task of **Intraretinal cyst fuild detection**.
+This work aims to do an experimental analysis of recent state of the art deep learning algorithms to  to solve the task of **Intraretinal cyst fuild detection**, specially to find three retinal fluid types, with annotated images provided by two clinical centers, which were acquired with the three most common [OCT](https://en.wikipedia.org/wiki/Optical_coherence_tomography) device vendors from
+patients with two different retinal diseases.  
+
+
 
 ## Related Work
 
@@ -42,8 +45,7 @@ Segmentation Benchmark and Challenge](https://ieeexplore.ieee.org/stamp/stamp.js
 The training data together with the annotations for the ICON challenge can be downloaded using the following link (*Please, make sure that you all read the data usage policy document included and understand what is stated there.*):
 
 
-- [https://surfdrive.surf.nl/files/index.php/s/wCmBx3J1DnBndRo](https://surfdrive.surf.nl/files/index.php/s/wCmBx3J1DnBndRo)  
-- A **password** is needed to get to the files: q3f%3h5mG!@zp*3fdpRe$
+- [https://drive.google.com/open?id=1Y2XKig36mh2WuJ-1ArJWoF-tlgKp8UnT](https://drive.google.com/open?id=1Y2XKig36mh2WuJ-1ArJWoF-tlgKp8UnT)  
  
 
 If you have any questions, please contact Clarisa, the **supervisor** at [**Clara.SanchezGutierrez@radboudumc.nl**](Clara.SanchezGutierrez@radboudumc.nl)
@@ -55,7 +57,7 @@ If you have any questions, please contact Clarisa, the **supervisor** at [**Clar
 ## Results
 *This section will be updated soon, future work to be done is to evaluated the enhance and evaluate the algoritm in the following databases ICON challenge.*
 
-The proposed method was evaluated in the [ICON challenge]() database.
+The proposed method was evaluated in the [ICON challenge](icon.grand-challenge.org) database.
 
 
 ## Paper
