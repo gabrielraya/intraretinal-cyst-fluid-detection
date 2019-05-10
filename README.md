@@ -57,7 +57,8 @@ If you have any questions, please contact Clarisa, the **supervisor** at [**Clar
 ## Results
 *This section will be updated soon, future work to be done is to evaluated the enhance and evaluate the algoritm in the following databases ICON challenge.*
 
-The proposed method was evaluated in the [ICON challenge](icon.grand-challenge.org) database.
+The proposed method was evaluated in the [ICON challenge](https://icon.grand-challenge.org/
+) database.
 
 
 ## Paper
@@ -105,9 +106,9 @@ The average of several grades, consisting in the final evaluation of the **final
 
 
 ### Deadlines
-- Friday 17/05 : **Midterm Presentation**
-- Friday 07/06 : **Final Presentation**
-- Wednesday 12/06: **Final Exam ISMI-19**
+- Friday 17/05 : **Midterm Presentation** |  9:00-12:00 -> Mercator 1, room 00.20
+- Friday 21/06 : **Final Presentation**   |  9:00-12:00 -> Linnaeusbuilding, room 5 (LIN5), Heyendaalseweg 137
+- Thursday 13/06: **Final Exam ISMI-19**
 
 
 #### Team Members:
