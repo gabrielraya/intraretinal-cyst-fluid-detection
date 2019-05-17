@@ -47,6 +47,7 @@ The training data together with the annotations for the ICON challenge can be do
 
 - [https://drive.google.com/open?id=1Y2XKig36mh2WuJ-1ArJWoF-tlgKp8UnT](https://drive.google.com/open?id=1Y2XKig36mh2WuJ-1ArJWoF-tlgKp8UnT)  
  
+For a detailed explanation explanation of the data go to the [**RETOUCH Challenge**](https://retouch.grand-challenge.org/Details/), the `details` section explained it really good. 
 
 If you have any questions, please contact Clarisa, the **supervisor** at [**Clara.SanchezGutierrez@radboudumc.nl**](Clara.SanchezGutierrez@radboudumc.nl)
 
