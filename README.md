@@ -117,8 +117,8 @@ The average of several grades, consisting in the final evaluation of the **final
 |Name     |  Slack Handle   |
 |---------|-----------------|
 |[Gabriel Raya Rodriguez](https://github.com/gabrielraya) |     @gabrielraya    |
-|[Julius Mannes](https://github.com/OdysseasKr)| @JuliusMannes        |
-|[Tristan Payer](https://github.com/oliversion) |     @sirtris    |
+|[Julius Mannes](https://github.com/JuliusMannes)| @JuliusMannes        |
+|[Tristan Payer](https://github.com/sirtris) |     @sirtris    |
 |[Pedro Martínez](https://github.com/PMedel) |     @PMedel    |
 
 
