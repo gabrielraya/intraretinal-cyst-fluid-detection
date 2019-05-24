@@ -18,6 +18,7 @@ Outline:
 - [Meetings](#meetings)
 - [Project Plan](#project-plan)
 - [Important facts](#important-facts)
+- [Dependencies](#dependencies)
 
 
 
@@ -123,7 +124,32 @@ The average of several grades, consisting in the final evaluation of the **final
 
 
 
+## Dependencies
 
+Create environment :
+
+	conda create --name tensorflow python=3.6
+
+Installing Jupyter:
+
+	conda install jupyter
+
+The following packages are needed for this project:
+
+    conda install scipy
+    pip install --upgrade sklearn
+    pip install --upgrade pandas
+    pip install --upgrade pandas-datareader
+    pip install --upgrade matplotlib
+    pip install --upgrade pillow
+    pip install --upgrade tqdm
+    pip install --upgrade requests
+    pip install --upgrade h5py
+    pip install --upgrade pyyaml
+    pip install --upgrade psutil
+    pip install --upgrade tensorflow==1.12.0
+	pip install --upgrade keras==2.2.4
+	pip install --upgrade SimpleITK
 
 
 ## Bibliography
