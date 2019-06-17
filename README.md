@@ -9,7 +9,7 @@ This repository contains the code for the development of a Intraretinal cyst flu
 
 Outline: 
 
-- [Intro](#Intro)
+- [Intro](#intro)
 - [Related Work](#related-work)
 - [Data](#data)
 - [Methods](#methods)
@@ -54,7 +54,8 @@ If you have any questions, please contact Clarisa, the **supervisor** at [**Clar
 
 
 ## Methods
-*In progress*
+
+A  fully convolutional neural network (FCNN) was used with a similar architecture to the original U-net [3].
 
 ## Results
 *This section will be updated soon, future work to be done is to evaluated the enhance and evaluate the algoritm in the following databases ICON challenge.*
@@ -163,5 +164,7 @@ The following packages are needed for this project:
 doi: 10.1109/TMI.2019.2901398
 keywords: {Retina;Image segmentation;Diseases;Biomedical imaging;Image analysis;Fluids;Benchmark testing;Evaluation;Image segmentation;Image classification;Optical Coherence Tomography;Retina},
 URL: [http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8653407&isnumber=4359023](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8653407&isnumber=4359023)
+
+[3] Olaf Ronneberger, Philipp Fischer, and Thomas Brox,“U-net: Convolutional networks for biomedical imagesegmentation,”CoRR, vol. abs/1505.04597, 2015.
 
 
