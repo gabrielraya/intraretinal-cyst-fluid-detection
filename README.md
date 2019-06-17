@@ -72,6 +72,8 @@ You can find the overleaf link here:
 [**Report link**](https://www.overleaf.com/2216391167ptqspjgjkcmj
 )
 
+You can find here the [PROJECT REPORT](ISMI_FINAL_PROJECT.pdf)
+
 ## Meetings
 
 ### Minutes Meeting 4/24/19
